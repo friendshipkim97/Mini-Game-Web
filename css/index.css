@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#top-nav{
+    display: flex;
+    background: gray;
+    height: 30px;
+    color: white;
+    align-content: space-around;
+}
+
+#container{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+#myCanvas {
+
+}
+
+#view {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#shop {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
